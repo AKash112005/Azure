@@ -1,6 +1,4 @@
-# Creating a Virtual Machine in Microsoft Azure
-
-This guide explains how to create a **Windows Server 2019 Datacenter VM** in Azure.  
+# 🚀 Azure Hands-on Lab – Virtual Network & Gateway Setup
 
 ## Steps
 
