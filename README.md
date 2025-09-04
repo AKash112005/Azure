@@ -1,5 +1,4 @@
-# 🚀 Azure Hands-on Lab – Virtual Network & Gateway Setup
-
+# created a first Virtual Machine
 ## Steps
 
 ### 1. Navigate to Azure Portal
